@@ -7,7 +7,7 @@
         <img width="100" src="https://file.garden/aG4uPTNO_Dlar84S/aliil.png" />
 <p align="center"> Feel free to cuddle with me anytime =3 </p>
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=Eye0unnoMan&color=3f323d&style=flat-square&label=ᓚ₍⑅^..^₎♡" alt="Profile Views" /> 
+ <img src="https://komarev.com/ghpvc/?username=para-duo&color=3f323d&style=flat-square&label=ᓚ₍⑅^..^₎♡" alt="Profile Views" /> 
  <p align="center">
 </p>
 </p>
