@@ -3,7 +3,7 @@
 <table align="center">
  <tr>
    <td align="center" valign="middle">
-<a href="https://txto.eu.org/cej"> info</a>ᅠᅠᅠ ᅠ andᅠᅠᅠ  <a href="https://hash8f2240.atabook.org"> 新book</a> 
+<a href="https://txto.eu.org/yuder"> info</a>ᅠᅠᅠ ᅠ andᅠᅠᅠ  <a href="https://hash8f2240.atabook.org"> 新book</a> 
   </td>
  </tr>
 </table>
